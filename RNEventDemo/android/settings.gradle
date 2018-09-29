@@ -1,3 +1,5 @@
 rootProject.name = 'RNEventDemo'
 
 include ':app'
+include ':ReactEventEmitter'
+project(':ReactEventEmitter').projectDir = new File(rootProject.projectDir, '../../Source/android')
