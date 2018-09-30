@@ -1,2 +1,5 @@
 RNEventDemo/
+Source/android/build
+Source/android/.gitignore
+Source/android/ReactEventEmitter.iml
 .npmignore
