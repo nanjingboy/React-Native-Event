@@ -1,8 +1,8 @@
 {
-  "name": "rn-event-emitter",
-  "version": "0.1.0",
-  "description": "React Native event emitter wrapper on both Android & iOS.",
-  "main": "source/ReactEventEmitter.js",
+  "name": "rn-event-emitter-callback",
+  "version": "0.2.0",
+  "description": "React Native event emitter with callback on both Android & iOS.",
+  "main": "Source/ReactEventEmitter.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nanjingboy/React-Native-Event.git"
@@ -14,7 +14,7 @@
     "ios",
     "android"
   ],
-  "author": "Tom.Huang",
+  "author": "Tom.Huang <hzlhu.dargon@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nanjingboy/React-Native-Event/issues"
