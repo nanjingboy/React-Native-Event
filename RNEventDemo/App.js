@@ -1,7 +1,6 @@
 import React from 'react';
-import ReactEventEmitter from './ReactEventEmitter';
 import { StyleSheet, Button, View, NativeModules, Text } from 'react-native';
-
+import ReactEventEmitter from 'rn-event-emitter-callback';
 export default class App extends React.PureComponent {
 
   state = {

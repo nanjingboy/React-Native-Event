@@ -56,7 +56,7 @@ DEPENDENCIES:
   - React/RCTNetwork (from `../node_modules/react-native`)
   - React/RCTText (from `../node_modules/react-native`)
   - React/RCTWebSocket (from `../node_modules/react-native`)
-  - ReactEventEmitter (from `../../Source/ios/`)
+  - ReactEventEmitter (from `../node_modules/rn-event-emitter-callback/Source/ios/`)
   - Toast
   - yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
@@ -75,7 +75,7 @@ EXTERNAL SOURCES:
   React:
     :path: "../node_modules/react-native"
   ReactEventEmitter:
-    :path: "../../Source/ios/"
+    :path: "../node_modules/rn-event-emitter-callback/Source/ios/"
   yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
@@ -89,6 +89,6 @@ SPEC CHECKSUMS:
   Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
   yoga: b1ce48b6cf950b98deae82838f5173ea7cf89e85
 
-PODFILE CHECKSUM: 5a38586151bd5c9927dea6a1ccc68efafcbabcfb
+PODFILE CHECKSUM: 1735dda8515b7ba218b9f959821819592160ebe5
 
 COCOAPODS: 1.5.3

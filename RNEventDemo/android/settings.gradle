@@ -2,4 +2,4 @@ rootProject.name = 'RNEventDemo'
 
 include ':app'
 include ':ReactEventEmitter'
-project(':ReactEventEmitter').projectDir = new File(rootProject.projectDir, '../../Source/android')
+project(':ReactEventEmitter').projectDir = new File(rootProject.projectDir, '../node_modules/rn-event-emitter-callback/Source/android')

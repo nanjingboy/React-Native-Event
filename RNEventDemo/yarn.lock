@@ -4434,6 +4434,10 @@ rimraf@~2.2.6:
   version "2.2.8"
   resolved "http://registry.npmjs.org/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
 
+rn-event-emitter-callback@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/rn-event-emitter-callback/-/rn-event-emitter-callback-0.2.0.tgz#d3f2179992db3c4bbf2c453184af99d7d81cd25c"
+
 rsvp@^3.3.3:
   version "3.6.2"
   resolved "https://registry.yarnpkg.com/rsvp/-/rsvp-3.6.2.tgz#2e96491599a96cde1b515d5674a8f7a91452926a"
