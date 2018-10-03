@@ -104,7 +104,7 @@ $ yarn add rn-event-emitter-callback
 #### JavaScript
 
 ```javascript
-ReactEventEmitter.addListener(name, { params, callback });
+ReactEventEmitter.addListener(name, (params, callback) => {});
 ReactEventEmitter.removeListener(name);
 ```
 
